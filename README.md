@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Status](#status)
 * [Example](#example)
-* [Graphic sources](#graphic-sources)
+* [Graphics sources](#graphics-sources)
 
 
 ## General info
@@ -21,6 +21,6 @@ In progress
 ![Main menu](./Example/arka_mm.png)
 ![Game](./Example/arka_game.png)
 
-## Graphic sources
+## Graphics sources
 http://rebloggy.com/post/space-galaxy-pixel-art-pixel-spiral-galaxy/107710286152#tooltip-107710286152
 https://co.pinterest.com/el_ferry/pixel-art/
